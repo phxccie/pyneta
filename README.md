@@ -1,5 +1,5 @@
 # pyneta
 # kilroy was here
-#       \|||/
-#       (o o)
-#----ooO-(_)-Ooo--------
+#        \|||/
+#        (o o)
+# ----ooO-(_)-Ooo--------
